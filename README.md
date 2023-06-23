@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arularun-developer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Arun kumar
+- 👀 I’m interested in the web Developer
+- 🌱 I’m currently learning ...Full Stack Development
 
