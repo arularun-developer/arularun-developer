@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN-full stack developer**
 
-- 👨‍💻 All of my projects are available at [https://incredible-cajeta-45b186.netlify.app/](https://incredible-cajeta-45b186.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://incredible-cajeta-45b186.netlify.app/](https://arunkumar-ak.netlify.app/)
 
 - 📫 How to reach me **arularunoffical1110@gmail.com**
 
